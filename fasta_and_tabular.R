@@ -88,7 +88,7 @@ data <- tibble(name,sequence)
 
 #finally export the file 
 #before that remove preexisting file
-unlink(c("dna_table.fasta"),force=TRUE)
+unlink(c("dna_table.csv"),force=TRUE)
 write.csv(data,"dna_table.csv")
 
 #function ends
