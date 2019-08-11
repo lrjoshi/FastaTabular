@@ -3,6 +3,7 @@ Conversion of Fasta format to Tabular format and vice versa
 
 ### You can import functions present in this repository directly to R Studio
 library (devtools)
+
 source_url(https://raw.githubusercontent.com/lrjoshi/FastaTabular/master/fasta_and_tabular.R)
 
 After completing this, following functions should be available for use. 
