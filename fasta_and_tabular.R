@@ -17,7 +17,7 @@ TabularToFasta <- function (filename){
   
   sink("dna_fasta.fasta")
   
-  for (i in 1:nrow(x)){
+  for (i in 1:nrow(file)){
     name = paste0(">",file[i,1])
     sequence = paste(file[i,2])
    cat(name,sep="\n")
