@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3387796.svg)](https://doi.org/10.5281/zenodo.3387796)
+[![DOI](https://zenodo.org/badge/201711102.svg)](https://zenodo.org/badge/latestdoi/201711102)
 
 # FastaTabular   
 
