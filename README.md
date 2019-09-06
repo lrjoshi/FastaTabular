@@ -2,6 +2,8 @@
 
 # FastaTabular   
 
+<a href="https://zenodo.org/badge/latestdoi/201711102"><img src="https://zenodo.org/badge/201711102.svg" alt="DOI"></a>
+
 Conversion of Fasta format to Tabular format and vice versa 
 
 ### You can import functions present in this repository directly to R Studio
