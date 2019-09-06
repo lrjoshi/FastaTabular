@@ -1,4 +1,5 @@
-# FastaTabular
+# FastaTabular   
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3387796.svg)](https://doi.org/10.5281/zenodo.3387796)
 Conversion of Fasta format to Tabular format and vice versa 
 
 ### You can import functions present in this repository directly to R Studio
